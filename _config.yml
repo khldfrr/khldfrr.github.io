@@ -44,14 +44,14 @@ social:
   - title: tiktok
     url: http://tiktok.com/hotwhilz
   - title: linkedIn
-    url: www.linkedin.com/in/hawakhaleda
+    url: https://www.linkedin.com/in/hawakhaleda/
   - title: github
     url: http://github.com/khldfrr
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+Education:
+  - line: Degree of Electronics Engineering with Honour
+  - line: Faculty of Electrical Engineering, UiTM Shah Alam
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
