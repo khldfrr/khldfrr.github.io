@@ -25,10 +25,10 @@ disqus_shortname: Hawa
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 0056b3 #80B3FF
-  primary-rgb: "24,24,156" #"128,179,255"
-  secondary: ffffff #FD6E8A
-  secondary-dark: 1a202c #A2122F
+  primary: 0056b3 
+  primary-rgb: "0,86,179" 
+  secondary: f4f6f9 
+  secondary-dark: 1a202c 
 
 # Footer settings
 footer:
@@ -42,15 +42,15 @@ social:
   - title: instagram
     url: http://instagram.com/khldfrr
   - title: tiktok
-    url: http://tiktok.com/hotwhilz
+    url: http://tiktok.com/@hotwhilz
   - title: linkedIn
-    url: https://linkedin.com/in/hawakhaleda/
+    url: https://www.linkedin.com/in/hawakhaleda/
   - title: github
     url: http://github.com/khldfrr
 
 # Postal address (add as many lines as necessary)
-Education:
-  - line: Degree of Electronics Engineering with Honour
+address:
+  - line: Electrical Engineering with Honor
   - line: Faculty of Electrical Engineering, UiTM Shah Alam
 
 # Credits content
