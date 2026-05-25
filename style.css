@@ -1,3 +1,14 @@
 ---
 layout: style
 ---
+
+/* Force the profile picture to be a perfect circle */
+.img-profile, 
+.avatar, 
+.profile-img, 
+img[src*="profile"] {
+    width: 150px !important;       /* Controls the width */
+    height: 150px !important;      /* Keeps it square so it rounds perfectly */
+    object-fit: cover !important;  /* Stops your face from stretching */
+    border-radius: 50% !important; /* This is the magic line that makes it a circle */
+}
