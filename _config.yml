@@ -25,10 +25,10 @@ disqus_shortname: Hawa
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: c5eaea
-  primary-rgb: "245, 220, 186"
-  secondary: ecfaf6
-  secondary-dark: 9ad2d2
+  primary: a855f7
+  primary-rgb: "168, 85, 247"
+  secondary: 09090b
+  secondary-dark: 18181b
 
 # Footer settings
 footer:
